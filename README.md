@@ -3,9 +3,9 @@
 AI/ML Engineer building agentic systems, RAG pipelines, and production ML infrastructure. BS Computer Science at IBA Karachi (2022–2026). My background started in data analytics and business intelligence, which now grounds how I build and evaluate AI systems in production.
 
 - 🔭 Currently building agentic AI and voice-based systems (LangGraph, RAG, LLM inference optimization)
-- 🌱 Deepening my focus on LLM inference internals, GPU/HPC compute, and low-resource language localization (Urdu/Arabic)
+- 🌱 Deepening my focus on LLM inference internals, GPU/HPC compute
 - 📄 Co-author, **FedAdaPriv-CPU** — presented at the AI4X Accelerate Conference, National University of Singapore (2026)
-- 🎓 BS Computer Science, IBA Karachi — Dean's List, CGPA 3.48
+- 🎓 BS Computer Science 
 - 🌍 Open to AI Engineer / MLOps / Data Engineering roles across Pakistan, the Gulf, and remote
 - 📫 hamzazaman7523@gmail.com · [LinkedIn](https://linkedin.com/in/hamza-zaman7523)
 
@@ -83,7 +83,7 @@ To embed your Loom video download:
 5. Delete this comment block once the video is embedded.
 -->
 
-Walkthrough of Financial-Agent-Jarvis in action: **[watch the demo](#)**
+Video Overview: **[https://www.loom.com/share/70bbdfa84f2c43599a8bf6a4c766456a](#)**
 
 ---
 
