@@ -1,4 +1,4 @@
-# Hi, I'm Hamza 👋
+# Hi, I'm Hamza Zaman👋
 
 AI/ML Engineer building agentic systems, RAG pipelines, and production ML infrastructure. BS Computer Science at IBA Karachi (2022–2026). My background started in data analytics and business intelligence, which now grounds how I build and evaluate AI systems in production.
 
